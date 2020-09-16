@@ -22,7 +22,7 @@ title and closing screens (e.g. following the Powerpoint template).
 * [node-wot Getting Started tutorial](https://www.youtube.com/watch?v=wDX45dsD4GM)(42 mins): A detailed guide on how to use the reference WoT Scripting API implementation Eclipse node-wot to program Things, Thing Consumers and WoT Mashups. Example code snippets can get you started right away.
 ## Tools
 * WoT API Development Environment (WADE) [Short Version](https://www.youtube.com/watch?v=FGPbl8Occjw)(5 mins)/ [Long Version](https://www.youtube.com/watch?v=Cb60fAE02GU)(15 mins): WADE is a desktop tool built with Electron and Vue.js that allows you to interact with WoT devices by parsing their TD. In this video, you can learn how to use the basic functionalities as well as the advanced timing benchmarking features. It is also available online at https://github.com/tum-esi/wade
-* WAM - video exists, add link and description
+* WAM - [video](https://youtu.be/bPxIfZo7jns). WAM is a CLI tool that helps newcomers to setup a WoT application project. The video explains the creation of a simple application using WAM and Node-WoT
 * Frauhofer LinkSmart directories (to do)
 * Mozilla WebThings (to do)
 ## Application
